@@ -105,7 +105,7 @@ td {
     margin-left: 2px;
     padding: 1px 0.5em;
     background-color: #090909;
-    border: 1px solid #090909;
+    border: 1px solid #000;
     border-radius: 5px;
     color: #fff;
 }
